@@ -1,0 +1,10 @@
+What is Numpy?
+    * Numpy is a python library that provides a multidimensional array object various derived object
+
+what is Numpy Array?
+    * An array is a grid of values and it contains information about the raw data, how to locate an element, and how to interpret an element
+    * 1-d(1) , 2-d(1,2) , 3-d(1,2,3)
+Advantage of using Array over list
+    * Consume less memory
+    * Fat as compared to the python list
+    * Convenient to use 
